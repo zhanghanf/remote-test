@@ -1,0 +1,4 @@
+﻿  template.cpp
+D:\C++\template\template.cpp(15,14): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++\template\template.cpp(15,25): warning C4305: “初始化”: 从“double”到“float”截断
+  template.vcxproj -> D:\C++\template\x64\Debug\template.exe

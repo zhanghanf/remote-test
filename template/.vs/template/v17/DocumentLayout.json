@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B\\template\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCA7CAD-C7FA-4434-96EE-3683580D27BC}|template.vcxproj|D:\\C\u002B\u002B\\template\\template.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFCA7CAD-C7FA-4434-96EE-3683580D27BC}|template.vcxproj|solutionrelative:template.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCA7CAD-C7FA-4434-96EE-3683580D27BC}|template.vcxproj|D:\\C\u002B\u002B\\template\\template1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFCA7CAD-C7FA-4434-96EE-3683580D27BC}|template.vcxproj|solutionrelative:template1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "template1.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\template\\template1.cpp",
+              "RelativeDocumentMoniker": "template1.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\template\\template1.cpp",
+              "RelativeToolTip": "template1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-19T13:57:46.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "template.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\template\\template.cpp",
+              "RelativeDocumentMoniker": "template.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\template\\template.cpp",
+              "RelativeToolTip": "template.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-19T13:32:32.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
